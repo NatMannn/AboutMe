@@ -4,4 +4,5 @@
     <dimen name="layout_padding">16dp</dimen>
     <dimen name="layout_margin">16</dimen>
     <dimen name="layout_margin1">16dp</dimen>
+
 </resources>
